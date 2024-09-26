@@ -19,7 +19,8 @@ Para testes em escala, vale ressaltar que existem ferramentas mais apropriadas c
 - **Kali Linux**
 - **SET (Social-Engineer Toolkit)**
 
-- ### Configurando o Phishing no Kali
+
+### Configurando o Phishing no Kali
 
 - Inicie um terminal
 - Acesso root: ``` sudo su ```
