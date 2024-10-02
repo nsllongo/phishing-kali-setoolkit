@@ -34,6 +34,10 @@ Vale ressaltar que a eficácia de phishings e engenharia social está ligada à 
 - Insira o ip local, onde serão recebidas as informações.
 - Insira a URL para clone, neste exemplo estarei usando o github.
 
+### Output
+
+![Alt text](./output.png "Optional title")
+
 ## Fontes
 [Kaspersky - Spear Phishing](https://www.kaspersky.com.br/resource-center/definitions/spear-phishing)
 [CISA - Avoiding Social Engineering and Phishing Attacks](https://www.cisa.gov/news-events/news/avoiding-social-engineering-and-phishing-attacks)
