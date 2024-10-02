@@ -14,6 +14,8 @@ De acordo com a Kaspersky:
 
 Para testes em escala, vale ressaltar que existem ferramentas mais apropriadas como o *Gophish*, *Evilginx2*, *HiddenEye*, *King Phisher*, etc. Mas para propósitos conceituais, iremos usar a ferramenta SET (Social-Engineer Toolkit) que já vem disponível em distros como o Kali Linux.
 
+Vale ressaltar que a eficácia de phishings e engenharia social está ligada à quantidade de informações disponíveis, então também podemos associar a OSINT (Open Source Intelligence).
+
 ### Ferramentas Utilizadas
 
 - **Kali Linux**
@@ -32,3 +34,6 @@ Para testes em escala, vale ressaltar que existem ferramentas mais apropriadas c
 - Insira o ip local, onde serão recebidas as informações.
 - Insira a URL para clone, neste exemplo estarei usando o github.
 
+## Fontes
+[Kaspersky - Spear Phishing](https://www.kaspersky.com.br/resource-center/definitions/spear-phishing)
+[CISA - Avoiding Social Engineering and Phishing Attacks](https://www.cisa.gov/news-events/news/avoiding-social-engineering-and-phishing-attacks)
